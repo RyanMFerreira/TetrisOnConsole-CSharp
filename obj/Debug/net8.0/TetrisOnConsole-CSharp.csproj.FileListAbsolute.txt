@@ -1,0 +1,14 @@
+E:\Projetos\GitHub\TetrisOnConsole-CSharp\bin\Debug\net8.0\TetrisOnConsole-CSharp.exe
+E:\Projetos\GitHub\TetrisOnConsole-CSharp\bin\Debug\net8.0\TetrisOnConsole-CSharp.deps.json
+E:\Projetos\GitHub\TetrisOnConsole-CSharp\bin\Debug\net8.0\TetrisOnConsole-CSharp.runtimeconfig.json
+E:\Projetos\GitHub\TetrisOnConsole-CSharp\bin\Debug\net8.0\TetrisOnConsole-CSharp.dll
+E:\Projetos\GitHub\TetrisOnConsole-CSharp\bin\Debug\net8.0\TetrisOnConsole-CSharp.pdb
+E:\Projetos\GitHub\TetrisOnConsole-CSharp\obj\Debug\net8.0\TetrisOnConsole-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\GitHub\TetrisOnConsole-CSharp\obj\Debug\net8.0\TetrisOnConsole-CSharp.AssemblyInfoInputs.cache
+E:\Projetos\GitHub\TetrisOnConsole-CSharp\obj\Debug\net8.0\TetrisOnConsole-CSharp.AssemblyInfo.cs
+E:\Projetos\GitHub\TetrisOnConsole-CSharp\obj\Debug\net8.0\TetrisOnConsole-CSharp.csproj.CoreCompileInputs.cache
+E:\Projetos\GitHub\TetrisOnConsole-CSharp\obj\Debug\net8.0\TetrisOnConsole-CSharp.dll
+E:\Projetos\GitHub\TetrisOnConsole-CSharp\obj\Debug\net8.0\refint\TetrisOnConsole-CSharp.dll
+E:\Projetos\GitHub\TetrisOnConsole-CSharp\obj\Debug\net8.0\TetrisOnConsole-CSharp.pdb
+E:\Projetos\GitHub\TetrisOnConsole-CSharp\obj\Debug\net8.0\TetrisOnConsole-CSharp.genruntimeconfig.cache
+E:\Projetos\GitHub\TetrisOnConsole-CSharp\obj\Debug\net8.0\ref\TetrisOnConsole-CSharp.dll
